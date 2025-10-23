@@ -1,0 +1,11 @@
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Video3_Variables_Arrays\bin\Debug\Video3_Variables_Arrays.exe.config
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Video3_Variables_Arrays\bin\Debug\Video3_Variables_Arrays.exe
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Video3_Variables_Arrays\bin\Debug\Video3_Variables_Arrays.pdb
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Video3_Variables_Arrays\bin\Debug\Video3_Variables_Arrays.xml
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Video3_Variables_Arrays\obj\Debug\Video3_Variables_Arrays.vbproj.AssemblyReference.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Video3_Variables_Arrays\obj\Debug\Video3_Variables_Arrays.Resources.resources
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Video3_Variables_Arrays\obj\Debug\Video3_Variables_Arrays.vbproj.GenerateResource.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Video3_Variables_Arrays\obj\Debug\Video3_Variables_Arrays.vbproj.CoreCompileInputs.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Video3_Variables_Arrays\obj\Debug\Video3_Variables_Arrays.exe
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Video3_Variables_Arrays\obj\Debug\Video3_Variables_Arrays.xml
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Video3_Variables_Arrays\obj\Debug\Video3_Variables_Arrays.pdb

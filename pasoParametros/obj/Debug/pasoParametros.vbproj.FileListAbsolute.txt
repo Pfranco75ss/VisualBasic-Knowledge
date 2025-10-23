@@ -1,0 +1,11 @@
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\pasoParametros\bin\Debug\pasoParametros.exe.config
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\pasoParametros\bin\Debug\pasoParametros.exe
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\pasoParametros\bin\Debug\pasoParametros.pdb
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\pasoParametros\bin\Debug\pasoParametros.xml
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\pasoParametros\obj\Debug\pasoParametros.vbproj.AssemblyReference.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\pasoParametros\obj\Debug\pasoParametros.Resources.resources
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\pasoParametros\obj\Debug\pasoParametros.vbproj.GenerateResource.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\pasoParametros\obj\Debug\pasoParametros.vbproj.CoreCompileInputs.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\pasoParametros\obj\Debug\pasoParametros.exe
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\pasoParametros\obj\Debug\pasoParametros.xml
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\pasoParametros\obj\Debug\pasoParametros.pdb

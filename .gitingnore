@@ -1,0 +1,52 @@
+# Puedes usar el mismo .gitignore que para C# sin problemas.
+# Aquí tienes el mismo contenido, compatible con C# y VB.
+# -------------------------------------------------------------
+
+# Archivos de la solución y del proyecto
+## Archivos específicos del usuario
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+## Resultados de la compilación
+[Dd]ebug/
+[Rr]elease/
+[Aa]rm64/
+[Bb]in/
+[Oo]bj/
+
+## Archivos de cache
+.vs/
+.cache/
+
+# Archivos de bases de datos locales
+*.mdf
+*.ldf
+*.db
+*.sqlite
+
+# Paquetes y dependencias
+packages/
+node_modules/
+
+# Visual Studio Code
+.vscode/
+
+# Dependencias de NuGet
+# NuGet.exe y NuGet.config
+!*.nupkg
+!.nuget/
+
+# Archivos del sistema
+[Tt]humb.db
+.ds_store
+
+# Archivos de configuración sensibles
+# Configuración del servidor y cadenas de conexión a base de datos
+appsettings.Development.json
+web.config

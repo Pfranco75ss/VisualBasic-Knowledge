@@ -1,0 +1,11 @@
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Funciones\bin\Debug\Funciones.exe.config
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Funciones\bin\Debug\Funciones.exe
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Funciones\bin\Debug\Funciones.pdb
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Funciones\bin\Debug\Funciones.xml
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Funciones\obj\Debug\Funciones.vbproj.AssemblyReference.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Funciones\obj\Debug\Funciones.Resources.resources
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Funciones\obj\Debug\Funciones.vbproj.GenerateResource.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Funciones\obj\Debug\Funciones.vbproj.CoreCompileInputs.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Funciones\obj\Debug\Funciones.exe
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Funciones\obj\Debug\Funciones.xml
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Funciones\obj\Debug\Funciones.pdb

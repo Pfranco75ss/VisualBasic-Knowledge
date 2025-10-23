@@ -1,0 +1,11 @@
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\conversionDeDatos\bin\Debug\conversionDeDatos.exe.config
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\conversionDeDatos\bin\Debug\conversionDeDatos.exe
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\conversionDeDatos\bin\Debug\conversionDeDatos.pdb
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\conversionDeDatos\bin\Debug\conversionDeDatos.xml
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\conversionDeDatos\obj\Debug\conversionDeDatos.vbproj.AssemblyReference.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\conversionDeDatos\obj\Debug\conversionDeDatos.Resources.resources
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\conversionDeDatos\obj\Debug\conversionDeDatos.vbproj.GenerateResource.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\conversionDeDatos\obj\Debug\conversionDeDatos.vbproj.CoreCompileInputs.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\conversionDeDatos\obj\Debug\conversionDeDatos.exe
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\conversionDeDatos\obj\Debug\conversionDeDatos.xml
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\conversionDeDatos\obj\Debug\conversionDeDatos.pdb

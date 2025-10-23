@@ -1,0 +1,11 @@
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Procedimientos\bin\Debug\Procedimientos.exe.config
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Procedimientos\bin\Debug\Procedimientos.exe
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Procedimientos\bin\Debug\Procedimientos.pdb
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Procedimientos\bin\Debug\Procedimientos.xml
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Procedimientos\obj\Debug\Procedimientos.vbproj.AssemblyReference.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Procedimientos\obj\Debug\Procedimientos.Resources.resources
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Procedimientos\obj\Debug\Procedimientos.vbproj.GenerateResource.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Procedimientos\obj\Debug\Procedimientos.vbproj.CoreCompileInputs.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Procedimientos\obj\Debug\Procedimientos.exe
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Procedimientos\obj\Debug\Procedimientos.xml
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Procedimientos\obj\Debug\Procedimientos.pdb

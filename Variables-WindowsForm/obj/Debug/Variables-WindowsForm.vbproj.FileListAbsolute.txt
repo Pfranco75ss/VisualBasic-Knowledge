@@ -1,0 +1,12 @@
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Variables-WindowsForm\bin\Debug\Variables-WindowsForm.exe.config
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Variables-WindowsForm\bin\Debug\Variables-WindowsForm.exe
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Variables-WindowsForm\bin\Debug\Variables-WindowsForm.pdb
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Variables-WindowsForm\bin\Debug\Variables-WindowsForm.xml
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Variables-WindowsForm\obj\Debug\Variables-WindowsForm.vbproj.AssemblyReference.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Variables-WindowsForm\obj\Debug\Variables_WindowsForm.Resources.resources
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Variables-WindowsForm\obj\Debug\Variables-WindowsForm.vbproj.GenerateResource.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Variables-WindowsForm\obj\Debug\Variables-WindowsForm.vbproj.CoreCompileInputs.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Variables-WindowsForm\obj\Debug\Variables-WindowsForm.exe
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Variables-WindowsForm\obj\Debug\Variables-WindowsForm.xml
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Variables-WindowsForm\obj\Debug\Variables-WindowsForm.pdb
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Variables-WindowsForm\obj\Debug\Variables_WindowsForm.Form1.resources

@@ -1,0 +1,12 @@
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Operadores\bin\Debug\Operadores.exe.config
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Operadores\bin\Debug\Operadores.exe
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Operadores\bin\Debug\Operadores.pdb
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Operadores\bin\Debug\Operadores.xml
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Operadores\obj\Debug\Operadores.vbproj.AssemblyReference.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Operadores\obj\Debug\Operadores.Form1.resources
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Operadores\obj\Debug\Operadores.Resources.resources
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Operadores\obj\Debug\Operadores.vbproj.GenerateResource.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Operadores\obj\Debug\Operadores.vbproj.CoreCompileInputs.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Operadores\obj\Debug\Operadores.exe
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Operadores\obj\Debug\Operadores.xml
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Operadores\obj\Debug\Operadores.pdb

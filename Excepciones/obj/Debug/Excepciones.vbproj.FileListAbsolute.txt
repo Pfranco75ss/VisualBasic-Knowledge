@@ -1,0 +1,11 @@
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Excepciones\bin\Debug\Excepciones.exe.config
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Excepciones\bin\Debug\Excepciones.exe
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Excepciones\bin\Debug\Excepciones.pdb
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Excepciones\bin\Debug\Excepciones.xml
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Excepciones\obj\Debug\Excepciones.vbproj.AssemblyReference.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Excepciones\obj\Debug\Excepciones.Resources.resources
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Excepciones\obj\Debug\Excepciones.vbproj.GenerateResource.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Excepciones\obj\Debug\Excepciones.vbproj.CoreCompileInputs.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Excepciones\obj\Debug\Excepciones.exe
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Excepciones\obj\Debug\Excepciones.xml
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\Excepciones\obj\Debug\Excepciones.pdb

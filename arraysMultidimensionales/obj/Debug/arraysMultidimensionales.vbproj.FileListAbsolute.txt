@@ -1,0 +1,11 @@
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\arraysMultidimensionales\bin\Debug\arraysMultidimensionales.exe.config
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\arraysMultidimensionales\bin\Debug\arraysMultidimensionales.exe
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\arraysMultidimensionales\bin\Debug\arraysMultidimensionales.pdb
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\arraysMultidimensionales\bin\Debug\arraysMultidimensionales.xml
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\arraysMultidimensionales\obj\Debug\arraysMultidimensionales.vbproj.AssemblyReference.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\arraysMultidimensionales\obj\Debug\arraysMultidimensionales.Resources.resources
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\arraysMultidimensionales\obj\Debug\arraysMultidimensionales.vbproj.GenerateResource.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\arraysMultidimensionales\obj\Debug\arraysMultidimensionales.vbproj.CoreCompileInputs.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\arraysMultidimensionales\obj\Debug\arraysMultidimensionales.exe
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\arraysMultidimensionales\obj\Debug\arraysMultidimensionales.xml
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\arraysMultidimensionales\obj\Debug\arraysMultidimensionales.pdb

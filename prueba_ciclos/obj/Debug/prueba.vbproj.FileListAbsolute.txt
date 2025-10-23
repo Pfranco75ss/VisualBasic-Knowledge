@@ -1,0 +1,12 @@
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\prueba\bin\Debug\prueba.exe.config
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\prueba\bin\Debug\prueba.exe
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\prueba\bin\Debug\prueba.pdb
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\prueba\bin\Debug\prueba.xml
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\prueba\obj\Debug\prueba.vbproj.AssemblyReference.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\prueba\obj\Debug\prueba.Resources.resources
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\prueba\obj\Debug\prueba.vbproj.GenerateResource.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\prueba\obj\Debug\prueba.vbproj.CoreCompileInputs.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\prueba\obj\Debug\prueba.exe
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\prueba\obj\Debug\prueba.xml
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\prueba\obj\Debug\prueba.pdb
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\Visual Basic\prueba\obj\Debug\prueba.exe.config
